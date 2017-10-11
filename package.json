@@ -1,10 +1,7 @@
 {
-  "name": "wds-error",
+  "name": "wds-misconfiguration-error",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {},
-  "author": "",
+  "author": "Patrik Šimunič <patriksimunic@hotmail.com>",
   "license": "ISC",
   "devDependencies": {
     "babel-core": "^6.26.0",
