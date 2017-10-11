@@ -11,7 +11,7 @@ module.exports = {
         bundle: path.resolve(__dirname, 'src/index.jsx'),
     },
     output: {
-        publicPath: '/',
+        publicPath: '.',
         path: __dirname + '/dist',
         filename: '[name].[chunkhash].js',
     },
