@@ -3,7 +3,7 @@
 
 This repo is example of replicated error with error supposed to be a webpack-dev-server misconfiguration.
 
-## Steps to replicate the error
+## Steps to reproduce the error
 
 1. Clone the repo `git clone https://github.com/7h3w4rd0c70r/wds-misconfiguration-error.git`
 2. Change directory `cd wds-misconfiguration-error`
